@@ -98,4 +98,4 @@ Password hygiene. Bots can be used to brute-force attack weaker passwords and br
 Click trusted links only. Bots may send spam or malicious links via email. Only click on links from a trusted source to avoid getting a malicious link from a bot.
 Preventing malicious bots is part of a comprehensive security plan. Learn how to create an enterprise cybersecurity strategy that is proactive in defending against threats like malicious bots.
 
-This was last updated in March 2022
+This was last updated in september 2022
